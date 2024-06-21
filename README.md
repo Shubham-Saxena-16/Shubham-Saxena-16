@@ -1,6 +1,6 @@
 ![Logo](https://github.com/Shubham-Saxena-16/Shubham-Saxena16/blob/main/banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Shubham Saxena</h1>
+<h1 align="center">Hi Welcome to My GitHub Profile! 👋, I'm Shubham Saxena</h1>
 <h3 align="center">
   As a Data Analyst, I leverage analytical expertise and technical skills to extract actionable insights from complex datasets.
   Proficient in Python, SQL, and data visualization tools, I transform raw data into meaningful visualizations and reports, 
@@ -8,6 +8,25 @@
   I conduct exploratory data analysis, build predictive models, and optimize business strategies. 
   Experienced in Agile methodologies, I collaborate effectively with cross-functional teams to deliver projects aligned with organizational goals. 
   Committed to continuous learning and staying abreast of industry trends, I drive innovation and optimize processes through data-driven solutions. 
+  Trained through targeted coursework and practical internships.
+
+🛠️ Technical Skills
+Tools:
+📊 Power BI (Desktop, Service)
+🌐 Google Workspace (Gmail, Chrome, Google Docs)
+📈 Spreadsheets (Google Sheets, MS Excel)
+🗃️ MySQL
+☁️ Office 365
+📝 JIRA
+Methodologies:
+🧮 Math and Statistics
+🔀 ETL (Extract, Transform, Load)
+🔧 Power Query
+📐 Data Modeling
+📊 DAX (Data Analysis Expressions)
+📉 Data Visualization
+🛠️ Database Design
+📜 SQL Query
   Let's connect on LinkedIn to explore opportunities for collaboration!
 </h3>
 
