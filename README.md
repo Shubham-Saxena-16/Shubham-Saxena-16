@@ -48,14 +48,17 @@
 - 📄 Know about my experiences: [Resume](https://bit.ly/Shubham_Saxena_Resume)
 
 ### Connect with me:
-<p align="left">
+<div align="left"> 
+  <a href="mailto:shubham786.saxena@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
   <a href="https://www.linkedin.com/in/shubham1605/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://medium.com/@shubham786.saxena" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
-</p>
+</div>
 
 ### Languages and Tools:
 <p align="left"> 
