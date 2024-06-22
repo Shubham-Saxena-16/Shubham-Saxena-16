@@ -94,3 +94,15 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-saxena-16&" alt="GitHub Streak" />
 </p>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
