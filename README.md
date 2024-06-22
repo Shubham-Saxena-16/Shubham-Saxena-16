@@ -1,4 +1,5 @@
 ![Logo](https://github.com/Shubham-Saxena-16/Shubham-Saxena-16/blob/main/Github%20logo.png)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shubham-Saxena-16.Shubham-Saxena-16" />
 
 <h1 align="center"> 👋 Hi, Welcome to Shubham's GitHub Profile! </h1>
 <h3 align="left">
