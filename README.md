@@ -1,4 +1,4 @@
-![Logo](https://github.com/Shubham-Saxena-16/Shubham-Saxena16/blob/main/banner.jpg)
+![Logo](https://github.com/Shubham-Saxena-16/Shubham-Saxena-16/blob/main/Github%20logo.png)
 
 <h1 align="center">Hi, Welcome to My GitHub Profile! 👋, I'm Shubham Saxena</h1>
 <h3 align="left">
