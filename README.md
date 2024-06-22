@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shubham-Saxena-16.Shubham-Saxena-16" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+to+Shubham's+GitHub+Profile!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=👋+Hi+There!;+Welcome+to+Shubham's+GitHub+Profile!;" />
 </h1>
 
 <h3 align="left">
@@ -113,4 +113,10 @@
   <img width="325"  align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shubham-saxena-16&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   
 </div>
+    
+<h6 style="text-align: right; color: #333;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=We+hope+you%27ll+return+soon%21%20⌛" alt="typing animation" />
+</h6>
+
+
 
