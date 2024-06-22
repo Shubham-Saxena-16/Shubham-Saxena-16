@@ -1,6 +1,6 @@
 ![Logo](https://github.com/Shubham-Saxena-16/Shubham-Saxena-16/blob/main/Github%20logo.png)
 
-<h1 align="center">Hi, Welcome to My GitHub Profile! 👋, I'm Shubham Saxena</h1>
+<h1 align="center"> 👋 Hi, Welcome to Shubham's GitHub Profile! </h1>
 <h3 align="left">
   As a Data Analyst, I leverage analytical expertise and technical skills to extract actionable insights from complex datasets.
   Proficient in Python, SQL, and data visualization tools, I transform raw data into meaningful visualizations and reports, 
