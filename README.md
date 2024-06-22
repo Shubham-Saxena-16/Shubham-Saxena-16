@@ -1,7 +1,10 @@
 ![Logo](https://github.com/Shubham-Saxena-16/Shubham-Saxena-16/blob/main/Github%20logo.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shubham-Saxena-16.Shubham-Saxena-16" />
 
-<h1 align="center"> 👋 Hi, Welcome to Shubham's GitHub Profile! </h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+to+Shubham's+GitHub+Profile!;" />
+</h1>
+
 <h3 align="left">
   As a Data Analyst, I leverage analytical expertise and technical skills to extract actionable insights from complex datasets.
   Proficient in Python, SQL, and data visualization tools, I transform raw data into meaningful visualizations and reports, 
